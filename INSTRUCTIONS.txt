@@ -8,3 +8,4 @@ clothing_data is the Un-pre-processed dataset, and clothing_data2 is the pre-pro
 
 Recomendation_Function.py is the function that takes input_text from the user and returns the output URLs. Its is a part of Clothing_Recommendation.ipynb and Clothing_Recommendation.py file.
 
+Tried to deploy the same on google cloud function but its giving an error, as the main.py function is not given the dataset as an input over there, but no problem, still working on it.
